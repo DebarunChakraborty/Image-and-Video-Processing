@@ -3,5 +3,5 @@ This repository mainly contain the necessary python code for algorithms required
 
 
 Course Instructor:
-Prof. Bhabesh Deka
+Prof. Bhabesh Deka and 
 Mr. Debarun Chakraborty
